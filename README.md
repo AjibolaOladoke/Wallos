@@ -1,23 +1,12 @@
+# Wallos
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the Wallos notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![Wallos](https://opengraph.githubassets.com/1/ellite/Wallos)](https://www.swifttechco.com)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/siteicons/walloswhite.png">
-    <source media="(prefers-color-scheme: light)" srcset="./images/siteicons/wallos.png">
-    <img alt="Wallos" src="./images/siteicons/wallos.png">
-  </picture>
-
-  <p>Wallos: Open-Source Personal Subscription Tracker</p>
-
-  [![Stars](https://img.shields.io/github/stars/ellite/Wallos?style=flat-square)](https://www.swifttechco.com)
-  [![Docker](https://img.shields.io/docker/pulls/bellamy/wallos?style=flat-square)](https://www.swifttechco.com)
-  [![GitHub contributors](https://img.shields.io/github/contributors/ellite/Wallos?style=flat-square)](https://www.swifttechco.com)
-  [![Telegram](https://img.shields.io/telegram/1237073478910214235?logo=telegram&style=flat-square)](https://t.me/+Qt_eFvkb2rliMzNh)
-</div>
-
+[![Wallos](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Table of Contents
 
@@ -66,7 +55,7 @@ Wallos is a powerful, open-source, and self-hostable web application designed to
 
 ## Demo
 
-If you want to try Wallos, a demo is available at [https://www.swifttechco.com](https://www.swifttechco.com).  
+If you want to try Wallos, a demo is available at https://www.swifttechco.com.  
 The database is reset every 2 hours.  
 To access the demo use the following credentials:
 
@@ -193,7 +182,7 @@ services:
 Just open the browser and open `ip:port` of the machine running wallos.  
 On the first time you run wallos a user account must be created.  
 Go to settings and personalise your Avatar and add members of your household. While there add / remove any categories and currencies.  
-Get a free API Key from [Fixer](https://www.swifttechco.com) and add it in the settings.  
+Get a free API Key from Fixer and add it in the settings.  
 If you want to trigger an Update of the exchange rates, change your main currency after adding the API Key, and then change it back to your preferred one.  
 
 ## Screenshots
@@ -259,7 +248,7 @@ Setting the `SSRF_ALLOWLIST` environment variable overrides the database value e
 
 ## API Documentation
 
-Wallos provides a comprehensive API that allows you to interact with the application programmatically. The API documentation is available at [https://www.swifttechco.com](https://www.swifttechco.com).
+Wallos provides a comprehensive API that allows you to interact with the application programmatically. The API documentation is available at https://www.swifttechco.com.
 
 ## Contributing
 
@@ -294,8 +283,8 @@ I strongly believe in the importance of open source software and the collaborati
 
 ## Links
 
-- The author: [henrique.pt](https://www.swifttechco.com)
-- Wallos Landingpage: [wallosapp.com](https://www.swifttechco.com)
+- The author: henrique.pt
+- Wallos Landingpage: wallosapp.com
 - Join the conversation: [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ---
@@ -308,14 +297,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [ellite/Wallos](https://github.com/ellite/Wallos) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
