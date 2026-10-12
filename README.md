@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![Wallos](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![Wallos](images/preview.png)](https://github.com/Swift-Tech-Co/Wallos)
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ Wallos is a powerful, open-source, and self-hostable web application designed to
 
 ## Demo
 
-If you want to try Wallos, a demo is available at https://www.swifttechco.com.  
+If you want to try Wallos, a demo is available at https://github.com/Swift-Tech-Co/Wallos.  
 The database is reset every 2 hours.  
 To access the demo use the following credentials:
 
@@ -116,7 +116,7 @@ See instructions to run Wallos below.
 
 1. Re-download the repo and move the files into the correct folder or do `git pull` (if you used git clone before)
 2. Check the [Prerequisites](#baremetal) and install / enable the missing ones, if any.
-3. Run https://www.swifttechco.com if you are logged in, or via CLI run:
+3. Run https://github.com/Swift-Tech-Co/Wallos if you are logged in, or via CLI run:
 ```bash
 php /var/www/html/endpoints/db/migrate.php
 ```
@@ -187,30 +187,30 @@ If you want to trigger an Update of the exchange rates, change your main currenc
 
 ## Screenshots
 
-[![Screenshot](screenshots/wallos-subscriptions-light.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-subscriptions-light.png)](https://github.com/Swift-Tech-Co/Wallos)
 
 <details>
 <summary>See more screenshots</summary>
 
-[![Screenshot](screenshots/wallos-subscriptions-dark.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-subscriptions-dark.png)](https://github.com/Swift-Tech-Co/Wallos)
 
-[![Screenshot](screenshots/wallos-subscriptions-popup.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-subscriptions-popup.png)](https://github.com/Swift-Tech-Co/Wallos)
 
-[![Screenshot](screenshots/wallos-dashboard-light.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-dashboard-light.png)](https://github.com/Swift-Tech-Co/Wallos)
 
-[![Screenshot](screenshots/wallos-dashboard-dark.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-dashboard-dark.png)](https://github.com/Swift-Tech-Co/Wallos)
 
-[![Screenshot](screenshots/wallos-stats.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-stats.png)](https://github.com/Swift-Tech-Co/Wallos)
 
-[![Screenshot](screenshots/wallos-calendar.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-calendar.png)](https://github.com/Swift-Tech-Co/Wallos)
 
-[![Screenshot](screenshots/wallos-form.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-form.png)](https://github.com/Swift-Tech-Co/Wallos)
 
-[![Screenshot](screenshots/wallos-subscriptions-mobile-light.png)](https://www.swifttechco.com) [![Screenshot](screenshots/wallos-subscriptions-mobile-dark.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-subscriptions-mobile-light.png)](https://github.com/Swift-Tech-Co/Wallos) [![Screenshot](screenshots/wallos-subscriptions-mobile-dark.png)](https://github.com/Swift-Tech-Co/Wallos)
 
-[![Screenshot](screenshots/wallos-subscriptions-mobile-sheet.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-subscriptions-mobile-sheet.png)](https://github.com/Swift-Tech-Co/Wallos)
 
-[![Screenshot](screenshots/wallos-dashboard-mobile-light.png)](https://www.swifttechco.com) [![Screenshot](screenshots/wallos-dashboard-mobile-dark.png)](https://www.swifttechco.com)
+[![Screenshot](screenshots/wallos-dashboard-mobile-light.png)](https://github.com/Swift-Tech-Co/Wallos) [![Screenshot](screenshots/wallos-dashboard-mobile-dark.png)](https://github.com/Swift-Tech-Co/Wallos)
 
 </details>
 
@@ -248,7 +248,7 @@ Setting the `SSRF_ALLOWLIST` environment variable overrides the database value e
 
 ## API Documentation
 
-Wallos provides a comprehensive API that allows you to interact with the application programmatically. The API documentation is available at https://www.swifttechco.com.
+Wallos provides a comprehensive API that allows you to interact with the application programmatically. The API documentation is available at https://github.com/Swift-Tech-Co/Wallos.
 
 ## Contributing
 
@@ -258,7 +258,7 @@ I welcome contributions from the community and look forward to working with you 
 
 ### Contributors
 
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/Wallos">
   
 </a>
 
@@ -301,13 +301,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/Wallos
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [ellite/Wallos](https://github.com/ellite/Wallos) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
